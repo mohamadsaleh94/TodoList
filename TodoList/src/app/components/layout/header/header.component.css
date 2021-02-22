@@ -1,11 +1,11 @@
 .header {
-  background: #333;
-  color: #fff;
-  text-align: center;
-  padding: 10px;
+    background: rgb(13, 28, 230);
+    color: rgb(20, 18, 18);
+    text-align: center;
+    padding: 10px;
 }
 
 .header a {
-  color: #fff;
-  text-decoration: none;
+    color: rgb(31, 6, 6);
+    text-decoration: none;
 }
